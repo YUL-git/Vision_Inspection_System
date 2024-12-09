@@ -1,4 +1,4 @@
-# Vision_Inspection_System
+# Multimodal Vision Inspection System
 ## Support
 This work was supported by the National Research Foundation of Korea(NRF) grant funded by the Korea government. (MSIT) (RS-2024-00393801).  
 
